@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MiniOrange101
-- 👀 I’m interested in python
+- 👀 I’m interested in python and other languages (except java) 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Making the website
 - 📫 How to reach me (+86)13761756560
